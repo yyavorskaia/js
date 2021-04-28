@@ -1,0 +1,24 @@
+1. Створіть масив випадкових унікальних букв, кількість повинна дорівнювати 5. (не вручну, генерувати за допомогою JS).
+2. Додайте згенерований масив у html select як окремі параметри.
+3. Коли користувач вибирає будь-який варіант, покажіть список імен із файлу list.json, де перша буква відповідає вибраній опції.
+4. Якщо збігів немає, не показувати повідомлення про результати збігів
+
+NOTE: After each page refresh the array of unique letters must be different.
+
+
+
+1. Сгенерируйте массив случайных уникальных букв, количество должно быть равно 5. (не вручную, сгенерировать с помощью JS).
+2. Добавить сгенерированный массив в html выберите как отдельные опции.
+3. Когда пользователь выбирает любую опцию, показывать список имен из файла list.json, где первая буква совпадает с выбранной опцией.
+4. Если совпадений нет, отобразить сообщение о результатах отсутствия совпадений.
+
+ПРИМЕЧАНИЕ. После обновления каждой страницы набор уникальных букв должен быть другим.
+
+
+
+1. Generate an array of random unique letters, quantity should be equal to 5. (not manual, generate with JS).
+2. Append generated array into html select as separate options.
+3. When user select any option, show list of names from list.json file where the first letter matches with selected option.
+4. If no matches, show no matches result message
+
+NOTE: After each page refresh the array of unique letters must be different.
